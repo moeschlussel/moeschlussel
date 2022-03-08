@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moeschlussel
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning solidity
 
 
 <!---
